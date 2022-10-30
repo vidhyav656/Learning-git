@@ -13,6 +13,7 @@
 # Twitch Links
 
 [Should you use the Git Terminal or GUI](https://www.twitch.tv/videos/637537167)
+
 [Version Control with Git - Part 1](https://www.twitch.tv/videos/294061615)
 
 # Twitter Threads
