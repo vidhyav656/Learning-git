@@ -1,4 +1,4 @@
-# Introduction to git and its commands
+# Introduction to git , github and its commands
 
 # Learning Git
 
